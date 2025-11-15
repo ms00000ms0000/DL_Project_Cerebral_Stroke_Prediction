@@ -102,7 +102,7 @@ Model performance was validated using held-out test data and sample predictions.
 1. ## Clone the repository:
 
    ```bash
-   git clone https://github.com/<your-username>/DL_Project_Cerebral_Stroke_Prediction.git
+   git clone https://github.com/ms00000ms0000/DL_Project_Cerebral_Stroke_Prediction.git
    cd DL_Project_Cerebral_Stroke_Prediction
    ```
 
