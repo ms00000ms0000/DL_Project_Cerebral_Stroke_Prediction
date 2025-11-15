@@ -99,26 +99,26 @@ Model performance was validated using held-out test data and sample predictions.
 
 ## 🧪 How to Run
 
-1. ## Clone the repository:
+## 1. Clone the repository:
 
    ```bash
    git clone https://github.com/ms00000ms0000/DL_Project_Cerebral_Stroke_Prediction.git
    cd DL_Project_Cerebral_Stroke_Prediction
    ```
 
-2. ## Install dependencies:
+## 2. Install dependencies:
 
    ```bash
    pip install -r requirements.txt
    ```
 
-3. ## Run the notebook:
+## 3. Run the notebook:
 
    ```bash
    jupyter notebook IBM_DL_Model_Cerebral_Stroke.ipynb
    ```
 
-4. ## Train and test the model — predictions and sample inferences will be shown at the end of the notebook.
+## 4. Train and test the model — predictions and sample inferences will be shown at the end of the notebook.
 
 ---
 
